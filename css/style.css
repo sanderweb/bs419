@@ -38,7 +38,7 @@ body {
     height: 2rem;
 }
 
-navbar-nav li {
+.navbar-nav li {
     padding-right: .7rem;
 }
 
